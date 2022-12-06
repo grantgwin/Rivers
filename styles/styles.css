@@ -1,0 +1,39 @@
+body {font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(18, 16, 16);
+    background-color: rgb(129, 220, 232);
+}
+
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+
+}
+a {
+    color: rgb(162, 11, 107);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    /* font-weight: bold;
+    font-size: 18px; */
+}
+
+.myDiv {
+  border: 5px outset red;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.myDiv2 {
+    border: 5px outset rgb(249, 248, 252);
+    background-color: rgb(218, 220, 57);
+    text-align: left;
+  }
+
+.myDiv3 {
+    border: 5px outset red;
+    background-color: rgb(226, 202, 123);
+    text-align: left;
+  }
